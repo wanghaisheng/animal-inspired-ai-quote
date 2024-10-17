@@ -1,3 +1,6 @@
+2024-10-17
+
+
 ![Screenshot from 2024-04-14 00-31-12](https://github.com/zaselalk/animal-inspired-ai-quote/assets/43272744/cadfb823-b2a5-4f34-9be3-99197f183f71)
 
 # AI Animal Quote generator with image
